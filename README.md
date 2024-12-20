@@ -33,3 +33,5 @@ python shell_emulator.py
 ![Alt text](https://github.com/sae1221/shell-emulatorr/blob/main/2.PNG)
 ![Alt text](https://github.com/sae1221/shell-emulatorr/blob/main/3.PNG)
 
+# Тесты:
+![Alt text](https://github.com/sae1221/shell-emulatorr/blob/main/2024-12-20_13-15-46.png)
